@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWV1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEPlUbyBldmFsdWF0ZSB5b3VyIHJldmVudWUgb2JzZXJ2ZSB5b3VyIHJldmVudWUgZ3Jvd3RoIGFuZCBob3cgaXQgY29tcGFyZXMgdG8geW91ciBwZWVycy4gVGhpcyB3aWxsIGhlbHAgeW91IGV2YWx1YXRlIHdoZXRoZXIgeW91J3JlIGdyb3dpbmcgYmV5b25kIG1hcmtldCBncm93dGgvY29udHJhY3Rpb24gb3Igc2Vhc29uYWwgZmx1Y3R1YXRpb25zLiBZb3UgY2FuIGFsc28gc2V0IG9iamVjdGl2ZXMgcmVsYXRpdmUgdG8geW91ciBwZWVycy7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/X+96AAAAAIz/wAAAAAAAAIz/X+/EAAAAAIz/X/AaAAAAA0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBBPcGVuU2Fucy1SZWd1bGFy0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LVUQpSU1RVVldYV1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgBojQCwAAAAAAAAQAdI0NVpbXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjWlw4XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NV5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomA4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAYIBiQGRAZwBoAGiAaQBpgGqAawBrgGwAbIB3wIBAhQCGwIgAiICJAImAigCLQIvAjECMwI1AjcCOwJBAkYCTAJVAl4CZwJwAnUCgAKJApYCmQKiAqcCxALGAsgCzwLSAtQC1gLZAtsC3QLfAvUDCwMUAycDLANCA0YDSwNeA2EDdAN/A4oDnAO+A9AD0gPUA90D3wPkA/4EAgQVBBoELwQyBEcEWQRcBGEAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAAEYw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B2229B5A-3AB1-41F6-B992-14F5232F50E1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 600,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 2}, {1407, 13}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "77FB2B43-384A-40F8-A912-06F2D0D76228"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#4D4D4D",
+        "fontPostscriptName": "OpenSans-Regular",
+        "fontSize": 12,
+        "lineHeight": 14,
+        "text": "To evaluate your revenue observe your revenue growth and how it compares to your peers. This will help you evaluate whether you're growing beyond market growth/contraction or seasonal fluctuations. You can also set objectives relative to your peers."
+      }
+    }
+  }
+}

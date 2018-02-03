@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B0EF461F-4012-4184-88D2-07C4A54A1786",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 180,
+    "x": 20,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5FC03D6D-ACC8-4B94-87EA-DEEB4EC91BA2"
+    },
+    {
+      "class": "text",
+      "id": "DD9D86F0-3532-45BC-8A13-350ADB95B95B"
+    },
+    {
+      "class": "text",
+      "id": "77270BE0-870D-4B77-8A70-104553CD461D"
+    }
+  ],
+  "name": "Font: compass-icons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
