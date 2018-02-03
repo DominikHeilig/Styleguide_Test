@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "CB719A39-04DE-4B2F-830C-0DE19798C31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 572,
+    "x": 121,
+    "y": 595
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "04FC66B1-D19A-409F-B02D-950D8AAFECC8"
+    },
+    {
+      "class": "text",
+      "id": "89A21E5D-3B68-4252-9D89-1A99DD3C982E"
+    },
+    {
+      "class": "text",
+      "id": "DFC0E571-8652-4118-BAAE-ED29F14EAD6C"
+    },
+    {
+      "class": "text",
+      "id": "4C1DD6C1-A887-45B5-B677-3AF7ED3A3E8A"
+    },
+    {
+      "class": "text",
+      "id": "FE810D4F-DA3A-4642-A90A-DD27CE211AE2"
+    },
+    {
+      "class": "text",
+      "id": "AC55D977-1409-4392-B501-E0C47B8DC246"
+    },
+    {
+      "class": "text",
+      "id": "3CE2BDCB-F6DC-4E4E-9042-57E0CDA5772D"
+    },
+    {
+      "class": "text",
+      "id": "EA760853-4749-47CD-85E3-C67369096D83"
+    },
+    {
+      "class": "text",
+      "id": "35228995-6517-476F-9061-5E6E2DAB5B83"
+    },
+    {
+      "class": "text",
+      "id": "E7DC0177-129C-4BEB-88A0-44129737100C"
+    },
+    {
+      "class": "text",
+      "id": "698C4C4A-8348-46A4-B3A5-A0BD692AC731"
+    },
+    {
+      "class": "text",
+      "id": "C6D46664-C318-4F96-9116-4FAF41A2177B"
+    },
+    {
+      "class": "text",
+      "id": "C6B5EF02-B993-4555-B486-89B119308CE2"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

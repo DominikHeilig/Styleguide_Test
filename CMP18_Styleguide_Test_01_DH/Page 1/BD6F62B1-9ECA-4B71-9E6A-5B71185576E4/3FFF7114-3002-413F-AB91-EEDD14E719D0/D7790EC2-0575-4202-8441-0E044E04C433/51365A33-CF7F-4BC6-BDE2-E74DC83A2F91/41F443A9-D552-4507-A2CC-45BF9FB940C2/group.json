@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "41F443A9-D552-4507-A2CC-45BF9FB940C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 219,
+    "width": 555,
+    "x": 12.81111111111113,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F132C545-ADE5-4C32-9B2F-3EBEA77E48C5"
+    },
+    {
+      "class": "group",
+      "id": "5AF1094D-95AD-412D-BCB0-010B0A9FF129"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F02C35AB-356B-4CD9-8E4E-8BA780CCD5C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0295CAEB-767A-4D36-BCBF-A1A4D51CDFA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0077040-81F6-40D5-A4AD-5B62C025F3C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7EA20D1-8297-4DDD-AFE2-795B8AE008FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF1EF532-47D3-46BA-AC93-C81F942A56BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E85C4760-75DE-45EC-B20C-2CD92BE59C21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B43290C1-CEC7-47DC-90DF-C3470AA9F2C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B7622D0-D962-4B69-9870-937621796947"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDB6B875-045F-4F71-A681-0D505E6FE9A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE19DDE5-E576-43D8-BB5D-C269AEA2351C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91F62FBA-349B-41C5-AE96-3BB12646C21A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA47A24A-A98A-44BC-AA50-E37CEC7C5BE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FB93842-3666-4463-ADD3-57FC3519605A"
+    }
+  ],
+  "name": "Group 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
